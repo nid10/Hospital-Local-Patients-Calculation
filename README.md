@@ -13,21 +13,27 @@ percentage of local patients.
 
 # Requirements
 
-Python 3.7
-pytest framework
+- Python 3.7
+- pytest framework
 
 
 # Installation
 
-Download and Install Python version 3.7
+- Download and Install Python version 3.7 using following link
+```
 https://www.python.org/downloads/release/python-378/
-
-Install pytest using pip install pytest
+```
+- Install pytest using following command in command prompt
+```
+pip install pytest
+```
 
 
 # Step to run the testcases
-
-Type the command pytest test_LocalPatientsCalculation.py to run the testcases.
+- Please run below command in terminal to execute the unit tests
+```
+pytest test_LocalPatientsCalculation.py
+```
 
 
  
